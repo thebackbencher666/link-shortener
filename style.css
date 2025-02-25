@@ -20,14 +20,14 @@ input {
 
 button {
     padding: 10px;
-    background: #007BFF;
+    background: #d40606;
     color: white;
     border: none;
     cursor: pointer;
 }
 
 button:hover {
-    background: #0056b3;
+    background: #03bd3285;
 }
 
 #shortened-url {
